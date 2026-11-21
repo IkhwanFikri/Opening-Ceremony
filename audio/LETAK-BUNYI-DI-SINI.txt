@@ -1,10 +1,15 @@
-Letak fail bunyi MP3 dalam folder ini dengan nama berikut (semua pilihan):
+## Add Background Music & Sound Effects (Optional)
 
-  latar.mp3    Muzik latar bersemangat. Dimainkan berulang (loop) sepanjang
-               puzzle disusun, dan perlahan-lahan hilang bila puzzle siap.
-  betul.mp3    Bunyi pendek setiap kali kepingan masuk ke rumahnya
-               (contoh: "ding!", sorakan kecil, whoosh).
-  selesai.mp3  Bunyi bila puzzle lengkap (contoh: fanfare, sorakan, tepukan).
+Place the MP3 audio files in the `audio` folder using the following filenames:
 
-Fail yang tiada akan diganti dengan bunyi sintetik asal.
-Nama fail mesti huruf kecil dan tepat seperti di atas.
+- **`background.mp3`** — Background music that plays continuously throughout the inauguration gimmick.
+- **`soundeffect.mp3`** — Short sound effect played each time a puzzle piece is correctly placed.
+- **`closing.mp3`** — Closing music or sound effect played when the puzzle is completed and the inauguration sequence ends.
+
+### Important Instructions
+- All audio files must be in MP3 format.
+- Filenames must be lowercase and match the names above exactly.
+- Update the JavaScript audio paths to match these filenames.
+- Missing audio files should fall back to the original synthetic sounds.
+- Background music should loop continuously and fade out smoothly when the puzzle is completed.
+- The closing audio should play at the appropriate final stage of the inauguration sequence.

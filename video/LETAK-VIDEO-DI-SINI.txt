@@ -1,6 +1,6 @@
 Place the inauguration video in this folder using the following filename:
 
-    perasmian.mp4
+    gimicvideo.mp4
 
 The video will automatically play in full screen approximately 4 seconds after the puzzle is completed and the poster is displayed in full screen.
 

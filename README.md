@@ -1,18 +1,46 @@
-# The Future Begins at SK Bayas — Puzzle Perasmian STEM 2026
+# HAK STBS 2026 — Interactive Inauguration Puzzle
 
-Laman web gimik perasmian: puzzle S-T-E-M dengan jejak tangan (MediaPipe).
+An interactive inauguration gimmick website featuring an S-T-B-S puzzle with hand-tracking technology (MediaPipe).
 
-**Pautan:** https://ameeraqeem.github.io/perasmianstemskbayas/
+**Event:** Hari Anugerah Kecemerlangan  
+**School:** SJK(T) Bagan Serai (STBS)  
+**Project Creator:** Ikhwan Fikri
 
-## Tambah video & bunyi (pilihan)
-- `video/perasmian.mp4` — dimainkan skrin penuh selepas puzzle siap (kekunci **P** = main/ulang)
-- `audio/latar.mp3` — muzik latar semasa menyusun puzzle
-- `audio/betul.mp3` — bunyi setiap kepingan masuk rumahnya
-- `audio/selesai.mp3` — bunyi bila puzzle lengkap
+## Add Video & Sound Effects (Optional)
 
-Upload fail ke folder masing-masing melalui **Add file → Upload files** (had 25MB setiap fail).
+- `video/perasmian.mp4` — played in full screen after the puzzle is completed (press **P** to play or replay).
+- `audio/latar.mp3` — background music during puzzle activation.
+- `audio/betul.mp3` — sound effect when each puzzle piece is correctly placed.
+- `audio/selesai.mp3` — sound effect when the puzzle is completed.
 
-## Kawalan operator
-- Klik sekali di skrin sebelum mula (untuk aktifkan bunyi)
-- **O** = konsol operator · **C** = kalibrasi · **P** = main video
-- Mula: tunjuk 5 jari ke kamera, atau klik MULAKAN AKTIVASI
+Upload the files into their respective folders using **Add file → Upload files** (maximum file size: 25 MB per file).
+
+## Operator Controls
+
+- Click anywhere on the screen once before starting to enable audio.
+- **O** = Open operator console.
+- **C** = Camera calibration.
+- **P** = Play or replay the inauguration video.
+- **Start:** Show five fingers to the camera, or click **START ACTIVATION**.
+
+## Customisation Instructions
+
+All gimmick elements should be editable, including:
+
+- Event title, school name and event details.
+- Puzzle letters, graphics and images.
+- Background images, colours and animations.
+- Welcome messages and congratulatory slogans.
+- Countdown timer and activation effects.
+- Background music, sound effects and inauguration video.
+- Operator settings and hand-tracking sensitivity.
+
+Keep all existing puzzle mechanics, MediaPipe hand tracking and keyboard controls functional.
+
+Provide an easy-to-use operator panel so the event organiser can customise the gimmick without editing the source code.
+
+**Suggested Event Slogan:**  
+"Celebrating Excellence, Inspiring Future Generations."
+
+**Created and customised by Ikhwan Fikri**  
+**HAK STBS 2026 — SJK(T) Bagan Serai**

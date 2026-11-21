@@ -1,10 +1,9 @@
-Letak video perasmian dalam folder ini dengan nama:
+Place the inauguration video in this folder using the following filename:
 
     perasmian.mp4
 
-Video akan dimainkan skrin penuh secara automatik kira-kira 4 saat
-selepas puzzle siap dan poster dipaparkan skrin penuh.
-Tekan kekunci P untuk main / ulang video.
+The video will automatically play in full screen approximately 4 seconds after the puzzle is completed and the poster is displayed in full screen.
 
-Tips: format MP4 (H.264), 1920x1080. Untuk upload melalui laman web GitHub,
-saiz fail mesti bawah 25MB.
+Press **P** on your keyboard to play or replay the video.
+
+**Tips:** Use MP4 format (H.264), with a recommended resolution of 1920 × 1080. When uploading through the GitHub website, the file size must be under 25 MB.
